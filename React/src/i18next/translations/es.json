@@ -1,0 +1,87 @@
+{
+    "Navbar": {
+        "link2Login": "Inicio Sesión",
+        "link2CreateAccount": "Crear Cuenta",
+        "language1": "Español",
+        "language2": "Inglés"
+
+    },
+    "Login":{
+        "title": "Inicio Sesión",
+        "email": "Correo eléctronico",
+        "password": "Contraseña",
+        "btn-form": "Iniciar Sesión",
+        "span": "¿No tienes una cuenta?",
+        "link2CreateAccount": "Crear una cuenta"
+    },
+    "CreateAccount": {
+        "title": "Registro",
+        "name": "Nombre",
+        "lastname": "Apellido",
+        "email": "Correo eléctronico",
+        "password": "Contraseña",
+        "confirmpassword": "Confirmar Contraseña",
+        "btn-form": "Registrarse"
+    },
+    "Home": {
+        "title":"Hola",
+        "text": "Texto de inicio"
+    },
+    "Inscripcion": {
+        "Section-1": {
+            "title": "Inscripción de Pasantía",
+            "sub-title": "Datos Personales",
+            "name": "Nombre Completo",
+            "rut": "Rut",
+            "email":"Correo eléctronico",
+            "phone":"Teléfono de Contacto"
+        },
+        "Section-2": {
+            "title": "Datos Académicos",
+            "Carrera": {
+                "title": "Carrera",
+                "option-1": "Seleccione una carrera",
+                "option-2": "Ingenería Civil",
+                "option-3": "Ingenería Comercial",
+                "option-4": "Derecho",
+                "option-5": "Psicología",
+                "option-6": "Periodismo"
+            },
+            "Campus": {
+                "title": "Campus",
+                "option-1": "Peñalolen",
+                "option-2": "Viña del mar",
+                "option-3": "San Joaquín"
+            }
+        },
+        "Section-3": {
+            "title": "Preferencias de Pasantía",
+            "Stake": {
+                "title": "Área de Interés",
+                "option-1": "Seleccione una área",
+                "option-2": "Desarrollo de Software",
+                "option-3": "Marketing",
+                "option-4": "Finanzas",
+                "option-5": "Investigación"
+            },
+            "Company": {
+                "title": "Empresas Preferidas",
+                "date": "Fechas Disponibles para Pasantía",
+                "name-supervisor": "Nombre del supervisor"
+            }
+        },
+        "Section-4": {
+            "title": "Documentos Adjuntos",
+            "cv": "Currículum Vitae (CV)",
+            "letter": "Carta de Motivación",
+            "document": "Otros Documentos Relevantes"
+        },
+        "Section-5": {
+            "title": "Instrucciones y Requisitos",
+            "info": "Por favor, completa todos los campos obligatorios y adjunta los documentos requeridos. Revisa los requisitos para la pasantía antes de enviar tu solicitud."
+        },
+        "button-1": "Enviar Solicitud",
+        "button-2": "Guardar Borrador",
+        "button-3": "Cancelar"
+    }
+}

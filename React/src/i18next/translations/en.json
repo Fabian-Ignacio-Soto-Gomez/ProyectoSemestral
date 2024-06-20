@@ -1,0 +1,87 @@
+{
+    "Navbar": {
+        "link2Login": "Login",
+        "link2CreateAccount": "Create Account",
+        "language1": "Spanish",
+        "language2": "English"
+
+    },
+    "Login":{
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "btn-form": "Sign in",
+        "span": "Don't have a account?",
+        "link2CreateAccount": "Create Account"
+    },
+    "CreateAccount": {
+        "title": "Create Account",
+        "name": "Name",
+        "lastname": "Last Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmpassword": "Confirm Password",
+        "btn-form": "Sign up"
+    },
+    "Home": {
+        "title":"Hi",
+        "text": "Start text"
+    },
+    "Inscripcion": {
+        "Section-1": {
+            "title": "Internship Registration",
+            "sub-title": "Personal Data",
+            "name": "Complete Name",
+            "rut": "Rut",
+            "email":"Email",
+            "phone":"Contact Telephone"
+        },
+        "Section-2": {
+            "title": "Academic Data",
+            "Carrera": {
+                "title": "Undergraduate",
+                "option-1": "Select a career",
+                "option-2": "Engineering",
+                "option-3": "Economy",
+                "option-4": "Law",
+                "option-5": "Psychology",
+                "option-6": "Journalism"
+            },
+            "Campus": {
+                "title": "Campus",
+                "option-1": "Peñalolen",
+                "option-2": "Viña del mar",
+                "option-3": "San Joaquín"
+            }
+        },
+        "Section-3": {
+            "title": "Internship Preferences",
+            "Stake": {
+                "title": "Area of Interest",
+                "option-1": "Select an area",
+                "option-2": "Software Development",
+                "option-3": "Marketing",
+                "option-4": "Finance",
+                "option-5": "Research"
+            },
+            "Company": {
+                "title": "Preferred Companies",
+                "date": "Internship Dates Available",
+                "name-supervisor": "Supervisor's name"
+            }
+        },
+        "Section-4": {
+            "title": "Attached Documents",
+            "cv": "Curriculum Vitae (CV)",
+            "letter": "Motivation Letter",
+            "document": "Other Relevant Documents"
+        },
+        "Section-5": {
+            "title": "Instructions and Requirements",
+            "info": "Please complete all required fields and attach the required documents. Review the internship requirements before submitting your application.."
+        },
+        "button-1": "Send Request",
+        "button-2": "Save Draft",
+        "button-3": "Cancel"
+    }
+}
